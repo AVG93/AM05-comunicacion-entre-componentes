@@ -1,0 +1,7 @@
+<h1>Uso de Inputs</h1>
+
+
+<div>
+  <app-jugador (myOnClick)="recepcionEvento($event)" *ngFor="let p of jugadores" [nickname]="p">
+  </app-jugador>
+</div>

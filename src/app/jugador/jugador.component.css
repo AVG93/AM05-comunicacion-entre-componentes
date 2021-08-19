@@ -1,0 +1,14 @@
+div {
+  background-color: blueviolet;
+  padding: 5px 10px;
+  display: inline-flex;
+  width: fit-content;
+  margin: 20px 20px;
+  border-radius: 15%;
+  border-style: dashed;
+}
+
+p {
+  color: rgb(228, 228, 228);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
